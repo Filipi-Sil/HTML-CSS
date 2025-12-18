@@ -1,1 +1,0 @@
-Seu login foi feito com um sucesso!
